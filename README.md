@@ -10,5 +10,9 @@
 </div>
 
 <p> 
-    <img width="640" height="360" src="src/api.gif" >
+    <img width="640" height="360" src="src/viacep.png" >
+</p>
+
+<p> 
+    <img width="640" height="360" src="src/viacep.gif" >
 </p>
