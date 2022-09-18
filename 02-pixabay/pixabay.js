@@ -34,3 +34,5 @@ const handleKeypress = ({ key, target }) => {
 document
   .querySelector("#search-input")
   .addEventListener("keypress", handleKeypress);
+
+// Em construção // --> 
