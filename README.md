@@ -9,6 +9,23 @@
 
 </div>
 
+-Viacep.
+
 <p> 
     <img width="640" height="360" src="src/viacep.gif" >
 </p>
+
+
+-Pixabay.
+
+<p> 
+    <img width="640" height="360" src="src/pixabay1.gif" >
+</p>
+
+### Código em javascript
+
+<p> 
+    <img width="640" height="360" src="src/pixabayjs.gif" >
+</p>
+
+
